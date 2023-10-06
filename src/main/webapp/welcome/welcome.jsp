@@ -24,6 +24,7 @@
 			</h3>
 		</div>
 		<hr>
+		<h1 class="card-title">본인 이름</h1>
 	</div>	
 	<%@ include file="../../inc/footer.jsp" %>
 </body>
